@@ -1,8 +1,8 @@
 /**
  * OOPS Banner App
- * UC7 - Store Character Pattern in a Class
+ * UC8 - Store Character Pattern in a Class and Map Characters
  * @author Arjun
- * @version 1.7
+ * @version 1.8
  */
 
 import java.util.*;
